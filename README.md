@@ -1,4 +1,4 @@
-# arabicSpell
+# spellNumbers
 
 A Class utility that spells numbers in arabic.
 
