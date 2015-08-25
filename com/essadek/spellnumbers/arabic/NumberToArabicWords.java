@@ -1,7 +1,7 @@
 package com.essadek.spellnumbers.arabic;
 
 /**
- * @author A. ABID
+ * @author Essadek
  * Converted and fixed from :
  *     C# project http://www.codeproject.com/KB/cs/NumberToWord.aspx
  *
